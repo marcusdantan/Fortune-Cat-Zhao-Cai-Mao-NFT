@@ -1,6 +1,6 @@
 # Fortune-Cat-Zhao-Cai-Mao-NFT
 
-![alt text](https://github.com/marcusdantan/Fortune-Cat-Zhao-Cai-Mao-NFT/blob/[branch]/Derp Double Hands Fortune Cat (Zhao cai Mao).png?raw=true)
+![alt text](https://github.com/marcusdantan/Fortune-Cat-Zhao-Cai-Mao-NFT/blob/Zhao-Cai-Mao/Derp Double Hands Fortune Cat (Zhao cai Mao).png?raw=true)
 
 In Chinese culture, Fortune Cats (Zhao Cai Mao 招财猫) are placed at the entrance of storefronts to attract wealth. 
 招财 literally translates to "attract wealth". The Chinese believe that these cats will bring prosperity to the holder.
